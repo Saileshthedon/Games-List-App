@@ -1,6 +1,4 @@
 import React, { useContext, useEffect, useState } from "react";
-import logo from "./../assets/Images/logo.png";
-import logo1 from "./../assets/Images/logo1.png";
 
 import SideNavGenreList from "./SideNavGenreList";
 import { HiMoon, HiOutlineBars3CenterLeft, HiOutlineMagnifyingGlass, HiOutlineXMark, HiSun } from "react-icons/hi2";
